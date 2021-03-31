@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">NetFilm</string>
+    <string name="tvshow">Tv Shows</string>
+    <string name="movie">Movies</string>
+    <string name="title_activity_detail_tvshow">Tv Show Details</string>
+    <string name="title_activity_detail_movie">Movie Details</string>
+    <string name="title_activity_favorite">My Favorite List</string>
+
+    <string name="title">Title</string>
+    <string name="firstDate">First Air Date</string>
+    <string name="releaseDate">Release Date</string>
+    <string name="rating">Rating</string>
+    <string name="desc">Description</string>
+    <string name="description">Arisu, a young man who finds himself lost in an abandoned Tokyo alongside his best friends, Chōta and Karube. As they begin their search for civilization, the trio quickly finds out that they are trapped in a city in which they are forced to participate in risky, violent, and dangerous games, pushing their own \"emotional and physical limits\" in the process to survive.</string>
+
+    <plurals name="season">
+        <item quantity="one">%d Season</item>
+        <item quantity="other">%d Seasons</item>
+    </plurals>
+    <string name="duration">120m</string>
+    <string name="genre_title">Genre</string>
+    <string name="genre">Science-fiction, Suspense-thriller, Drama</string>
+    <string name="published">Published by</string>
+    <string name="publisher">Disney+</string>
+    <string name="produced">Produced by</string>
+    <string name="producer">Marvel Studios</string>
+    <string name="created">Created by</string>
+    <string name="creator">Yoshiki Watabe, Yasuko Kuramitsu, Shinsuke Sato</string>
+    <string name="budget_title">Budget</string>
+    <string name="budget">$ 888888</string>
+    <string name="revenue_title">Revenue</string>
+    <string name="revenue">$ 333333</string>
+    <string name="cast_title">Cast</string>
+    <string name="cast">Kento Yamazaki, Tao Tsuchiya, Yūki Morinaga, Keita Machida, Ayame Misaki, Nijirō Murakami, Yutaro Watanabe</string>
+    <string name="favorite">Favorite</string>
+
+    <string name="message_ok">OK</string>
+
+</resources>
